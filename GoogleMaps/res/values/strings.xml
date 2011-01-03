@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Gmap!</string>
+    <string name="app_name">GooglemapsApp</string>
+    <string-array name="MenuOptions">
+        <item>View Current Location</item>
+        <item>View Previous 10 Locations</item>
+    </string-array>
+</resources>
